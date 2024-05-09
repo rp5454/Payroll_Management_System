@@ -1,4 +1,7 @@
-Free Download Source Code "Payroll Management System"
+Project name: Payroll Management System
+Made by Rishabh Pathak for 6th semester DBMS mini project
+
+follow the steps to access the code:
 
 FIRST Download
 
@@ -30,6 +33,3 @@ Create your own User
 Admin
 user: admin
 pass: admin123
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
